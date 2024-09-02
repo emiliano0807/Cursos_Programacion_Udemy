@@ -17,9 +17,9 @@ int main(){
     scanf("%f",&gasto);
 
     if(gasto < 1000){
-       tarifaLuz = TARIFA1;
+        tarifaLuz = TARIFA1;
     }else if(gasto >= 1000 && gasto <= 1850){
-       tarifaLuz = TARIFA2;
+        tarifaLuz = TARIFA2;
     }else if(gasto > 1850){
         tarifaLuz = TARIFA3;
     }
