@@ -1,4 +1,4 @@
-/*Ingrese un numero y calcule e imprima su raiz cuadrada.
+/*Ingrese un numero y calcule imprima su raiz cuadrada.
 Si el numero es
 negativo imprima el numero y un mensaje que diga tiene
 raiz imaginaria */
