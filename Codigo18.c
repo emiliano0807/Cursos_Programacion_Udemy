@@ -1,4 +1,4 @@
-/*Simular una Tiend con entradas y salidas de capital con sentencias switch y if - else*/
+/*Simular una Tienda con entradas y salidas de capital con sentencias switch y if - else*/
 
 #include <stdio.h>
 int main(){
